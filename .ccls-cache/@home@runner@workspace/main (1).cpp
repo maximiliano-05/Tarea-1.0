@@ -209,3 +209,6 @@ int main() {
   cout << e1->getCarrera() << endl;
   cout << e2->getCarrera() << endl;
 
+
+
+}
